@@ -1,7 +1,16 @@
 [package]
-name = "stage-rs"
+name = "stage-rs-fujia"
 version = "0.1.0"
 edition = "2021"
+authors = ["fujia fujia.site@gmail.com"]
+license = "MIT"
+description = "A tool to manage common functionalities"
+readme = "README.md"
+homepage = "https://github.com/fujia-apps/rust-learn"
+repository = "https://github.com/fujia-apps/rust-learn"
+keywords = ["cli", "manage"]
+categories = ["command-line-utilities"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
